@@ -318,15 +318,6 @@ THE SOFTWARE.
 @angular/common
 MIT
 
-@angular/platform-browser
-MIT
-
-@angular/animations
-MIT
-
-@angular/forms
-MIT
-
 lodash
 MIT
 Copyright JS Foundation and other contributors <https://js.foundation/>
@@ -402,6 +393,9 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+@angular/animations
+MIT
+
 @angular/cdk
 MIT
 The MIT License
@@ -452,6 +446,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+@angular/platform-browser
+MIT
+
 @angular/material/button
 
 @angular/material/snack-bar
@@ -489,6 +486,9 @@ SOFTWARE.
 @angular/material/toolbar
 
 @angular/material/icon
+
+@angular/forms
+MIT
 
 @angular/material/card
 
